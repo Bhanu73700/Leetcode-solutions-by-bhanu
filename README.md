@@ -15,4 +15,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Sorting
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
