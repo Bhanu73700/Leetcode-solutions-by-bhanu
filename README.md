@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0622-design-circular-queue) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
@@ -60,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2685-count-the-number-of-complete-components) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
