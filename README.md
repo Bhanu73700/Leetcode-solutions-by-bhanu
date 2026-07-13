@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0622-design-circular-queue) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
