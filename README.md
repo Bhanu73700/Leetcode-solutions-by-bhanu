@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0013-roman-to-integer) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0622-design-circular-queue) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1331-rank-transform-of-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -111,4 +116,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
