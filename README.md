@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0013-roman-to-integer) |
 | [0649-dota2-senate](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0649-dota2-senate) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0649-dota2-senate) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0232-implement-queue-using-stacks) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
