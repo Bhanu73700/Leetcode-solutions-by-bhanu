@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0543-diameter-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -152,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
