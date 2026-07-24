@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0257-binary-tree-paths) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0232-implement-queue-using-stacks) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0257-binary-tree-paths) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0257-binary-tree-paths) |
