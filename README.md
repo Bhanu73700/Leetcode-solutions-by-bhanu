@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0013-roman-to-integer) |
+| [0486-predict-the-winner](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0486-predict-the-winner) |
 | [0622-design-circular-queue](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -235,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
