@@ -3,8 +3,8 @@ public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
         unordered_map<int, vector<int>> mp;
 
-        for (auto &seat : reservedSeats) {
-            mp[seat[0]].push_back(seat[1]);
+        for (auto &row : reservedSeats) {
+            mp[row[0]].push_back(row[1]);
         }
 
         int ans = 2 * n;
@@ -24,7 +24,7 @@ public:
                 if (s >= 6 && s <= 9)
                     right = false;
             }
-
+ 
             if (left && right)
                 ans -= 0;
             else if (left || middle || right)
