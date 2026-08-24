@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1872-stone-game-viii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3312-sorted-gcd-pair-queries) |
 ## Monotonic Stack
 |  |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1927-sum-game) |
 ## Divide and Conquer
 |  |
@@ -358,10 +363,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1872-stone-game-viii) |
 ## Sliding Window
 |  |
 | ------- |
