@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2094-finding-3-digit-even-numbers) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
 | ------- |
