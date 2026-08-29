@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1331-rank-transform-of-an-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0138-copy-list-with-random-pointer) |
 | [0622-design-circular-queue](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
