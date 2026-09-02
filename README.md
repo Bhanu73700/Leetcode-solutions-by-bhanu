@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0242-valid-anagram) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0649-dota2-senate) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0486-predict-the-winner](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0486-predict-the-winner) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0950-reveal-cards-in-increasing-order) |
