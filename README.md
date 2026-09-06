@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0649-dota2-senate) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1140-stone-game-ii) |
