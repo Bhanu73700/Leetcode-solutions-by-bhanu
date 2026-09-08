@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3348-smallest-divisible-digit-product-ii) |
