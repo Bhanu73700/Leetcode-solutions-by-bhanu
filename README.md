@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -487,5 +488,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
