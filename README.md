@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0209-minimum-size-subarray-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1140-stone-game-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0209-minimum-size-subarray-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3090-maximum-length-substring-with-two-occurrences) |
