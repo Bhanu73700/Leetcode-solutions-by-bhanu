@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0649-dota2-senate) |
 | [0940-distinct-subsequences-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1657-determine-if-two-strings-are-close) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1927-sum-game) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0232-implement-queue-using-stacks) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -516,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
