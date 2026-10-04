@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1140-stone-game-ii) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1927-sum-game) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
