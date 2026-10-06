@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0209-minimum-size-subarray-sum) |
 | [0486-predict-the-winner](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0628-maximum-product-of-three-numbers) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0940-distinct-subsequences-ii) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -544,4 +547,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
