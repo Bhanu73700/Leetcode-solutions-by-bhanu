@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0301-remove-invalid-parentheses) |
 | [0649-dota2-senate](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0856-score-of-parentheses) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0301-remove-invalid-parentheses) |
 | [2685-count-the-number-of-complete-components](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Heap (Priority Queue)
