@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1872-stone-game-viii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2094-finding-3-digit-even-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1657-determine-if-two-strings-are-close) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2094-finding-3-digit-even-numbers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
