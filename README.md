@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0669-trim-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1254-number-of-closed-islands](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3310-remove-methods-from-project) |
@@ -301,12 +303,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Geometry
 |  |
