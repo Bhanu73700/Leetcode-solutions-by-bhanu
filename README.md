@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1872-stone-game-viii) |
@@ -605,4 +607,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
