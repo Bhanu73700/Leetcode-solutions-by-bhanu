@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0032-longest-valid-parentheses) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0005-longest-palindromic-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0345-reverse-vowels-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0486-predict-the-winner) |
@@ -618,4 +621,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1143-longest-common-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
