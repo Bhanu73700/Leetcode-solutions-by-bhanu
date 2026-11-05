@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0005-longest-palindromic-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0345-reverse-vowels-of-a-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0209-minimum-size-subarray-sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1657-determine-if-two-strings-are-close) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2089-find-target-indices-after-sorting-array) |
