@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1872-stone-game-viii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1872-stone-game-viii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3312-sorted-gcd-pair-queries) |
