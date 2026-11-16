@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2390-removing-stars-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3069-distribute-elements-into-two-arrays-i) |
