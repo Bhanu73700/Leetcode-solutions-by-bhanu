@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2094-finding-3-digit-even-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/1657-determine-if-two-strings-are-close) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2094-finding-3-digit-even-numbers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhanu73700/Leetcode-solutions-by-bhanu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
